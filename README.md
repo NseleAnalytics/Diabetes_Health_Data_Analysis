@@ -116,7 +116,7 @@ This analysis demonstrates how integrating multiple physiological parameters can
 
 
 🖼️ *Screenshot:*  
-[Composite Risk Index](images/Composite_Clinical_Risk_Index.png)
+![Composite Risk Index](images/Composite_Clinical_Risk_Index.png)
 
 ---
 
